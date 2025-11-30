@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.nltk_data/
+.env
+*.pkl
+*.model
+.DS_Store
